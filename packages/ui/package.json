@@ -4,5 +4,8 @@
   "description": "ui command for webpack-cli",
   "main": "index.ts",
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
